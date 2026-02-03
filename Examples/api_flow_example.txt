@@ -1,0 +1,11 @@
+User opens app
+↓
+Enters email & password
+↓
+API request sent to server
+↓
+Server validates data
+↓
+Response sent back
+↓
+App updates screen

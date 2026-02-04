@@ -84,5 +84,8 @@ This repository serves as:
 - Build small apps (Notes, To-Do, Login App)
 
 ---
+## 📐 Mobile App Architecture
+
+![Mobile App Architecture](diagrams/app-architecture.png)
 
 ### ⭐ If you find this useful, give the repo a star!

@@ -86,6 +86,6 @@ This repository serves as:
 ---
 ## 📐 Mobile App Architecture
 
-![Mobile App Architecture](diagrams/app-architecture.png)
+![Mobile App Architecture](Diagram/app-architecture.png)
 
 ### ⭐ If you find this useful, give the repo a star!
